@@ -1,5 +1,7 @@
 ## 👋 Hello there
 
+<p align="center"><img src="https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif" width="100"/></p>
+
 Information technology student, currently working with data analytics.  
 <br>
 
