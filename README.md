@@ -4,7 +4,6 @@
 
 Information technology student, currently working with data analytics.  
 <br>
-
 About me:
  - 🎓 Engineering
  - 📊 Data science
