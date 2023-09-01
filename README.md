@@ -29,3 +29,13 @@ About me:
   <img align="center" alt="Excel" height="40" width="40" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/79229e56a2f8d5e49db1df89d517848b9cfc4610/Office%20365/SVG/Excel.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
 </div>
+<br>
+<div style ="
+display: flex;
+flex-direction: row;
+justify-content: space-between;">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lombardi-g&theme=dracula)](https://git.io/streak-stats)
+
+<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lombardi-g&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) -->
+</div>
