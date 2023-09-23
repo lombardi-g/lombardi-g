@@ -1,4 +1,4 @@
-## 👋 Hello there
+# 👋 Hello there
 
 <p align="center"><img src="https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif" width="100"/></p>
 
@@ -14,7 +14,7 @@ About me:
 <!-- <a href="https://github.com/lombardi-g"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt="Github Badge"></a> -->
 </p>
 
----
+## Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
