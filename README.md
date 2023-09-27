@@ -1,6 +1,8 @@
-# 👋 Hello there
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="/9233864_4085216.svg">
 
-<p align="center"><img src="https://media.giphy.com/media/UevalSWg5twQeqpc8Q/giphy.gif" width="100"/></p>
+<h1>
+    <span>👋 Hello there</span>
+</h1>
 
 Information technology student, currently working with data analytics.  
 <br>
@@ -8,7 +10,7 @@ About me:
  - 🎓 Engineering
  - 📊 Data science
  - 🖥 Programming
-
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-lombardi-9aaa16154/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <!-- <a href="https://github.com/lombardi-g"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt="Github Badge"></a> -->
