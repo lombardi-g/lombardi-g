@@ -31,7 +31,9 @@ About me:
   <img align="center" alt="Excel" height="40" width="40" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/79229e56a2f8d5e49db1df89d517848b9cfc4610/Office%20365/SVG/Excel.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
 </div>
-<br>
+
+## Github Stats
+
 <div style ="
 display: flex;
 flex-direction: row;
