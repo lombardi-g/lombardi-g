@@ -44,5 +44,6 @@ justify-content: space-between;">
 
 [![GitHub Streak](https://github-readme-streak-stats-lombardi-gs-projects.vercel.app?user=lombardi-g&theme=soft-green&card_width=430)](https://git.io/streak-stats)
 
-<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lombardi-g&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) -->
+<!--![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lombardi-g&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lombardi-g&exclude_repo=github-readme-streak-stats&langs_count=6&bg_color=0D1117&text-color=FFF)-->
 </div>
