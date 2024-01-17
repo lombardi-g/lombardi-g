@@ -12,9 +12,8 @@ About me:
  - 🖥 Programming
 <br>
 
-
-<p align="left">
 <!--
+<p align="left">
 <a href="https://www.linkedin.com/in/gabriel-lombardi-9aaa16154/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://github.com/lombardi-g"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt="Github Badge"></a> -->
 </p>
@@ -41,9 +40,9 @@ About me:
 
 ## Github Stats
 <div style="display:flex">
-<!--    
+    
 <img align="center" height=180 src="https://github-readme-streak-stats-lombardi-gs-projects.vercel.app?user=lombardi-g&theme=soft-green&card_width=390">
--->
+
 <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lombardi-g&exclude_repo=github-readme-streak-stats&langs_count=6&bg_color=222428&title_color=00dc4d&text_color=fff&layout=compact">
 
 </div>
