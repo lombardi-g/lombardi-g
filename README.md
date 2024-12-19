@@ -4,12 +4,12 @@
     <span>👋 Hello there</span>
 </h1>
 
-Information technology student, currently working with data analytics.  
+Information technology student, currently working with ITSM.  
 <br>
 About me:
  - 🎓 Engineering
  - 📊 Data science
- - 🖥 Programming
+ - 🖥 Coding
 <br>
 
 <!--
