@@ -3,13 +3,12 @@
 <h1>
     <span>👋 Hello there</span>
 </h1>
-
-Information technology student, currently working with ITSM.  
+  
 <br>
-About me:
- - 🎓 Engineering
- - 📊 Data science
- - 🖥 Coding
+About me:<br>
+ - 🖥 ITSM<br>
+ - 🎓 Engineering<br>
+ - 📊 Data science<br>
 <br>
 
 <!--
