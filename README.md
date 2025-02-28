@@ -36,7 +36,7 @@ About me:<br>
   <img align="center" alt="Excel" height="47" width="47" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/79229e56a2f8d5e49db1df89d517848b9cfc4610/Office%20365/SVG/Excel.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg">
   <img align="center" alt="Jira" height="40" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/j/jira-1.svg">
-  <img align="center" alt="JSM" height="40" width="40" src="jsm.svg">
+  <img align="center" alt="JSM" height="43" width="43" src="jsm.svg">
   
 </div>
 
