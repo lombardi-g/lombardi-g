@@ -43,7 +43,7 @@ About me:<br>
 ## Github Stats
 <div style="display:flex">
   
-<img align="center" height=180 src="https://github-readme-streaks-rho.vercel.app/?user=lombardi-g&theme=soft-green&card_width=390">
+<img align="center" height=165 src="https://github-readme-streaks-rho.vercel.app/?user=lombardi-g&theme=soft-green&card_width=390">
 
 <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lombardi-g&exclude_repo=github-readme-streak-stats&langs_count=6&bg_color=222428&title_color=00dc4d&text_color=fff&layout=compact">
 
