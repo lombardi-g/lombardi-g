@@ -3,8 +3,12 @@
 <p align="left">
 About me:
 
-<img src="37(1).png" alt="Atlassian Badge 1" height="120" align="right">
-<img src="38.png" alt="Atlassian Badge 2" height="120" align="right">
+<a href="https://example.com/sua-certificacao-1" target="_blank">
+  <img src="37(1).png" alt="Atlassian Badge 1" height="120" align="right">
+</a>
+<a href="https://example.com/sua-certificacao-2" target="_blank">
+  <img src="38.png" alt="Atlassian Badge 2" height="120" align="right">
+</a>
 
 - 🖥 ITSM <br>
 - ⚙️ DevOps <br>
