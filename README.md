@@ -3,10 +3,10 @@
 <p align="left">
 About me:
 
-<a href="https://drive.google.com/file/d/1oclKU7NucKORqsbw7DBna6_aE8MKcJMv/view" target="_blank">
+<a href="https://drive.google.com/file/d/1zBgFOp8iNzHTdhlcNqv29c048LEuj_15/view" target="_blank">
   <img src="37(1).png" alt="Atlassian Badge 1" height="120" align="right">
 </a>
-<a href="https://example.com/sua-certificacao-2" target="_blank">
+<a href="https://drive.google.com/file/d/1oclKU7NucKORqsbw7DBna6_aE8MKcJMv/view" target="_blank">
   <img src="38.png" alt="Atlassian Badge 2" height="120" align="right">
 </a>
 
