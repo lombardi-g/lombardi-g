@@ -3,10 +3,10 @@
 <p align="left">
 About me:
 
-<a href="https://drive.google.com/file/d/1zBgFOp8iNzHTdhlcNqv29c048LEuj_15/view" target="_blank">
+<a href="https://cp.certmetrics.com/atlassian/en/public/badge/r?id=367026&date=2026-10-21" target="_blank">
   <img src="37(1).png" alt="Atlassian Badge 1" height="120" align="right">
 </a>
-<a href="https://drive.google.com/file/d/1oclKU7NucKORqsbw7DBna6_aE8MKcJMv/view" target="_blank">
+<a href="https://cp.certmetrics.com/atlassian/en/public/badge/r?id=366929&date=2026-10-20" target="_blank">
   <img src="38.png" alt="Atlassian Badge 2" height="120" align="right">
 </a>
 
