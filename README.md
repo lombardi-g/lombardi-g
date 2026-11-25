@@ -21,7 +21,6 @@ About me:
 <p align="left">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
   <img height="40" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/ba0f2cbb8690addd525c73d340cc8e46044ee604/icons/angular/angular.svg" alt="Angular">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
@@ -30,7 +29,6 @@ About me:
   <img height="40" src="ssms.png" alt="SSMS">
   <img height="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks">
   <img height="40" src="https://raw.githubusercontent.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/79229e56a2f8d5e49db1df89d517848b9cfc4610/Office%20365/SVG/Excel.svg" alt="Excel">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
   <img height="40" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI">
   <img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/j/jira-1.svg" alt="Jira">
   <img height="40" src="jsm.svg" alt="JSM">
